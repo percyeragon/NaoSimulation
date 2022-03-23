@@ -1,0 +1,6 @@
+Um bei der interaktiven Simulation zu starten oder um die Testfälle auszufühen mus man in der Kommandozeile jeweils einen Befehl eingeben um mit dem Roboter zu interagieren
+Es werden die Bibliotheken ODE und DRAWSTUFF vorrausgesesetzt. Wie
+man diese installiert ist in der Readme in naosimcode in Implementierung zu
+finden. Um das Programm zu starten muss man das makefile das in naosimcode
+liegt ausführen mit make, make Tests oder make interaktiv
+Nähere Inforamtionen zur Installation von den Blibliotheken liegt in der ReadMe drin
