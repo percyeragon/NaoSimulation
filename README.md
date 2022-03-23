@@ -42,19 +42,3 @@ Um Dateien zu löschen, die während des Bauens in den Arbeitsverzeichnissen ent
 make clear
 ```
 _(Die Funktion "clear" wird auch mitgeneriert, wenn Sie für die Erzeugung Ihres eigenen Makefiles das Script genMakefile.sh verwenden [s. Hinweise])_
-## Hinweise
-
-- Bitte beachten Sie, dass Sie diese Implementierung nur um Ihre Änderungen erweitern müssen. Nutzen also auch Sie die Code-Generierung für C++ in Papyrus und fügen Ihre Änderungen an den richtigen Stellen in diesem Code hinzu.
-- **Technische Fragen** stellen Sie bitte immer in das in der Aufgabenstellung genannte Forum (für _Fragen zum Problem_ beachten Sie die gesonderten Hinweise in der Aufgabenstellung).
-- **Implementieren Sie Testfälle**
-- Sie können diese Installationsanleitung gern als Grundlage Ihrer eigenen Anleitung nutzen
-- Für die Generierung eines Makefiles für Ihre Erweiterungen können Sie gern das Script _genMakefile.sh_ nutzen. **ES GIBT ABER KEINE GARANTIE, DASS DAS DORT GENERIERTE MAKEFILE FUNKTIONIERT!**
-
-## Wann wird eine Abgabe mit **0 Punkten** bewertet
-- Wenn Ihr Programm generell oder trotz der mitgelieferten Installationsanleitung nicht übersetzbar ist
-- Wenn Ihre Installationsanleitung unbrauchbar oder gar nicht vorhanden ist
-- Falls keine Änderung im Vergleich zur Vorlage erkennbar ist
-
-
-Am Ende bleibt nur noch folgendes zu sagen:
-# Viel Erfolg bei der Bearbeitung dieser Aufgabe :)
